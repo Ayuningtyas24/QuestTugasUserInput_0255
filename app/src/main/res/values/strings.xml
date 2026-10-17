@@ -21,6 +21,7 @@
 
     <string name="desc_calendar_icon">Ikon Kalender</string>
     <string name="desc_dropdown_icon">Ikon Dropdown</string>
+    <string name="desc_header_banner">Gambar Banner Profil</string>
 
     <string name="btn_ok">OK</string>
     <string name="btn_cancel">Batal</string>
